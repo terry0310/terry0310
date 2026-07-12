@@ -5,7 +5,7 @@ I'm a software engineer and freelancer based in Taiwan with 7 years of software 
 Previously, I worked on a C++ MMORPG project at a software company in Taiwan. My development experience includes C++, C#, and Java. I also have basic knowledge of JavaScript and HTML, and experience using the Unity game engine.
 
 Education
-Bachelor's degree in Electrical Engineering, National Yang Ming Chiao Tung University
+Bachelor's degree in Electrical Engineering, National Yang Ming Chiao Tung University  
 Master of Science in Electronics Engineering,National Yang Ming Chiao Tung University (Incomplete)
 
 I am currently learning and exploring:
