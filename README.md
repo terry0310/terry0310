@@ -41,6 +41,11 @@ I have used this system to coordinate Claude, Codex, and Ollama while developing
 
 I am currently working as a freelancer while continuing to study and experiment with AI-assisted software development workflows.
 
+## What I care about
+
+I am interested in making AI-assisted development more structured, observable, and reliable.
+Instead of treating AI as a simple code generator, I explore how agents can participate in planning, implementation, testing, review, documentation, and long-term project maintenance.
+
 ## Contact
 
 For questions, freelance opportunities, or potential collaboration, please contact me by email.
