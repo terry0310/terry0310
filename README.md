@@ -38,7 +38,7 @@ Contact
 
 For questions, freelance opportunities, or potential collaboration, please contact me by email:
 
-Email: terrylan0310@example.com
+Email: terrylan0310@gmail.com
 
 <!--
 **terry0310/terry0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
