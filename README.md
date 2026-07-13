@@ -1,4 +1,4 @@
-# Hi, I'm Chia Chun 👋
+# Hi, I'm Terry Lan 👋
 
 I'm a software engineer and freelancer based in Taiwan with 7 years of software development experience.
 
